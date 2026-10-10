@@ -139,10 +139,10 @@
    "latin": "MEDELLÍN",
    "coordinates": "6.24°N  75.58°W",
    "viewOffset": 40,
-   "version": 1,
-   "file": "city-medellin-1.zip",
-   "sha256": "9a68993c87bf1ffeb0560165f4580ca1729c0da5db3ff822b28142074a51b19a",
-   "bytes": 20700470,
+   "version": 2,
+   "file": "city-medellin-2.zip",
+   "sha256": "df841a6a47e0dd0d47f9db833fd28cd174df2b9683f54bd8983bfe69bd9f35e0",
+   "bytes": 21356251,
    "preview": true
   },
   {
@@ -165,10 +165,10 @@
    "latin": "MEXICO CITY",
    "coordinates": "19.43°N  99.13°W",
    "viewOffset": 45,
-   "version": 1,
-   "file": "city-mexicocity-1.zip",
-   "sha256": "770091553f301b0788e09d41ef53547b0c241912e72a4ac9cfeb562c75733208",
-   "bytes": 22348693,
+   "version": 2,
+   "file": "city-mexicocity-2.zip",
+   "sha256": "3ce408a0e3e341cecf45677ddb9e1d2216b888d618d229a15081e9bc58709840",
+   "bytes": 22735086,
    "preview": true
   },
   {
