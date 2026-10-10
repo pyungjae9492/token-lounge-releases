@@ -6,6 +6,17 @@
         <description>Updates for Token Lounge</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.1</title>
+            <pubDate>Sat, 10 Oct 2026 13:21:50 GMT</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>Token Lounge 0.1.1
+
+macOS 14 Sonoma 이상과 Intel Mac에서도 돌아갑니다. macOS 26에서는 리퀴드 글래스, 그 이전에는 유리 질감 재질로 보입니다.</pre>]]></description>
+            <enclosure url="https://github.com/pyungjae9492/token-lounge-releases/releases/download/v0.1.1/TokenLounge-0.1.1.dmg" sparkle:edSignature="RY5K2evi+RM5EjLWSEVYGjbWYGC20+WKTPlUdoy1Ls+HdIF31WIs556LSKit4bSIieT0OhsNySfX1vBf7exXDw==" length="64999386" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.0</title>
             <pubDate>Sat, 10 Oct 2026 12:50:49 GMT</pubDate>
             <sparkle:version>38</sparkle:version>
