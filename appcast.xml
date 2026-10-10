@@ -5,5 +5,16 @@
         <link>https://pyungjae9492.github.io/token-lounge-releases/appcast.xml</link>
         <description>Updates for Token Lounge</description>
         <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 12:50:49 GMT</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>Token Lounge 0.1.0
+
+첫 공개 버전. 창밖 도시 20곳, 날씨와 시간에 따라 바뀌는 방, 위젯 페이지, 남은 한도, 라운지 채팅.</pre>]]></description>
+            <enclosure url="https://github.com/pyungjae9492/token-lounge-releases/releases/download/v0.1.0/TokenLounge-0.1.0.dmg" sparkle:edSignature="D2nexUvs06QmDFbrOmk7NGheftgxtdMIdqRxnl4idTCZk51XmHem02B/A9EJ6vIClR8bs2t3LbtuGzXnuZxqAw==" length="62392831" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
