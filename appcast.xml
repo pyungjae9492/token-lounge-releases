@@ -6,6 +6,16 @@
         <description>Updates for Token Lounge</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.2</title>
+            <pubDate>Sun, 11 Oct 2026 12:57:35 GMT</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- 도시 방의 왼쪽 벽이 울렁거리던 문제를 고쳤어요. 등불, 엽서, 선반이 이제 흔들리지 않아요.
+- 19개 도시 모두 창 밑 판, 창턱, 책상과 서랍이 끊김 없이 이어지도록 다시 그렸어요. 도시 그림은 자동으로 업데이트돼요.</pre>]]></description>
+            <enclosure url="https://github.com/pyungjae9492/token-lounge-releases/releases/download/v0.1.2/TokenLounge-0.1.2.dmg" sparkle:edSignature="qq0VO95TFk1yTOXFQ6SGRgRN0a3+CPsSR8fMOBDjs0WnwHrwpw3e8XM/JarL9exaF+HKqu7j13K0wAuT4Ll8AQ==" length="65089989" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.1</title>
             <pubDate>Sat, 10 Oct 2026 13:21:50 GMT</pubDate>
             <sparkle:version>41</sparkle:version>
