@@ -9,10 +9,10 @@
    "latin": "TOKYO",
    "coordinates": "35.68°N  139.69°E",
    "viewOffset": 55,
-   "version": 1,
-   "file": "city-tokyo-1.zip",
-   "sha256": "7f6081d1bca98463f1cea7a7f28b80402982506b775fb1d60c56556ffa01602e",
-   "bytes": 18561457,
+   "version": 2,
+   "file": "city-tokyo-2.zip",
+   "sha256": "bb3e12c258603e03b3caefa4604bb8a8ff1f78ebbe313b319d897772a744d8c0",
+   "bytes": 19441283,
    "preview": true
   },
   {
@@ -22,10 +22,10 @@
    "latin": "PARIS",
    "coordinates": "48.86°N  2.35°E",
    "viewOffset": 45,
-   "version": 1,
-   "file": "city-paris-1.zip",
-   "sha256": "337afcee8df22de4d5cec6e13ed14f47d2354f3186618455693fc831446e1767",
-   "bytes": 18305253,
+   "version": 2,
+   "file": "city-paris-2.zip",
+   "sha256": "0e96eca2b7dae63c249376402a8188f2d11e373fcf14f4894beb27a86546c640",
+   "bytes": 18497526,
    "preview": true
   },
   {
@@ -35,10 +35,10 @@
    "latin": "CHIANG MAI",
    "coordinates": "18.79°N  98.99°E",
    "viewOffset": 70,
-   "version": 1,
-   "file": "city-chiangmai-1.zip",
-   "sha256": "7b4cc298d3d8c987ae029a1b37102b38a19bece367966e5e4db614f27d4cec31",
-   "bytes": 21607746,
+   "version": 2,
+   "file": "city-chiangmai-2.zip",
+   "sha256": "4794e7544d2e2199ff03c7f69d094c1a073bb1878ff7ab8047c96e3de4557a1c",
+   "bytes": 21651366,
    "preview": true
   },
   {
@@ -48,10 +48,10 @@
    "latin": "LISBON",
    "coordinates": "38.72°N  9.14°W",
    "viewOffset": 60,
-   "version": 1,
-   "file": "city-lisbon-1.zip",
-   "sha256": "3e405feefd17204c3e774776a369ae97c8f1ddb9e8f8f4e0555b7728a50f1448",
-   "bytes": 21332254,
+   "version": 2,
+   "file": "city-lisbon-2.zip",
+   "sha256": "1fa81fbfc4a53180b722ceeed4557ea4088b98b5767e92932ad048b054c4ff22",
+   "bytes": 21062827,
    "preview": true
   },
   {
@@ -61,10 +61,10 @@
    "latin": "TAIPEI",
    "coordinates": "25.03°N  121.56°E",
    "viewOffset": 35,
-   "version": 1,
-   "file": "city-taipei-1.zip",
-   "sha256": "b7d9ad1d2a362123033c65edd5a5d3d38a2ff8744de51eeb2b7d04a0637ed930",
-   "bytes": 18929176,
+   "version": 2,
+   "file": "city-taipei-2.zip",
+   "sha256": "c9f23950ef11de2e16e9d4f39827448830f2e8308dd9934e598afcfd1d58b63d",
+   "bytes": 19221582,
    "preview": true
   },
   {
@@ -74,10 +74,10 @@
    "latin": "BANGKOK",
    "coordinates": "13.74°N  100.49°E",
    "viewOffset": 40,
-   "version": 1,
-   "file": "city-bangkok-1.zip",
-   "sha256": "23f961f0ce00d63deeb50a95c35b156aa0b291f8662c1ed0305944c06cf7dfb6",
-   "bytes": 18395987,
+   "version": 2,
+   "file": "city-bangkok-2.zip",
+   "sha256": "ebe931b39f9f4b19f9fa6a40cd93742fcbda190210b16d0824089eaaa9a4c200",
+   "bytes": 18698256,
    "preview": true
   },
   {
@@ -87,10 +87,10 @@
    "latin": "DA NANG",
    "coordinates": "16.05°N  108.22°E",
    "viewOffset": 45,
-   "version": 1,
-   "file": "city-danang-1.zip",
-   "sha256": "ebc731d0faa7fdf70385dde58ef2531cd474f93d4a660e79d401d4c854511fa5",
-   "bytes": 20579643,
+   "version": 2,
+   "file": "city-danang-2.zip",
+   "sha256": "8f8268e1cbaeda83074e96013e1ce547ac9f109563edfd53a0f7bbff1cfc323c",
+   "bytes": 20266125,
    "preview": true
   },
   {
@@ -100,10 +100,10 @@
    "latin": "BALI",
    "coordinates": "8.43°S  115.28°E",
    "viewOffset": 70,
-   "version": 1,
-   "file": "city-bali-1.zip",
-   "sha256": "51e7a538b6d7742e4b5a9e7b47c1bd6b5db6b0a77ee5901e525a53e060371ba0",
-   "bytes": 22806768,
+   "version": 2,
+   "file": "city-bali-2.zip",
+   "sha256": "678ed5bae687d39a87ee05bcfbad199ffded1da1ea2de01c7734380f1f0a3cc6",
+   "bytes": 22778759,
    "preview": true
   },
   {
@@ -113,10 +113,10 @@
    "latin": "CAPE TOWN",
    "coordinates": "33.92°S  18.42°E",
    "viewOffset": 40,
-   "version": 1,
-   "file": "city-capetown-1.zip",
-   "sha256": "166c631b608efc07da53f2bb32119db367099698fb1be2480fbaf922a4cc6469",
-   "bytes": 17662262,
+   "version": 2,
+   "file": "city-capetown-2.zip",
+   "sha256": "4ecb672e1a20c8fdf0378bdc751270e4940243adebb867dd69c26600ca118fa9",
+   "bytes": 17621255,
    "preview": true
   },
   {
@@ -126,10 +126,10 @@
    "latin": "BARCELONA",
    "coordinates": "41.39°N  2.17°E",
    "viewOffset": 50,
-   "version": 1,
-   "file": "city-barcelona-1.zip",
-   "sha256": "3ff0a145f298f03cc50250ce7a775dd6953cf96130f7753082873171cea40201",
-   "bytes": 21681877,
+   "version": 2,
+   "file": "city-barcelona-2.zip",
+   "sha256": "9b8c21f50f7b205e2bbf0e1be9c032c56df226542e97cb6b271df5d2009ad921",
+   "bytes": 21573208,
    "preview": true
   },
   {
@@ -139,10 +139,10 @@
    "latin": "MEDELLÍN",
    "coordinates": "6.24°N  75.58°W",
    "viewOffset": 40,
-   "version": 2,
-   "file": "city-medellin-2.zip",
-   "sha256": "df841a6a47e0dd0d47f9db833fd28cd174df2b9683f54bd8983bfe69bd9f35e0",
-   "bytes": 21356251,
+   "version": 3,
+   "file": "city-medellin-3.zip",
+   "sha256": "39ea4f8465ca6044a1518a7d056e3e8d50a5f84df3692e48e3749168d9885a25",
+   "bytes": 20899587,
    "preview": true
   },
   {
@@ -152,10 +152,10 @@
    "latin": "NEW YORK",
    "coordinates": "40.71°N  74.01°W",
    "viewOffset": 45,
-   "version": 1,
-   "file": "city-newyork-1.zip",
-   "sha256": "82728e468f0f98e5bd953e43b3def46ec9da14ad38a4eea0c29d8380a3f8c6ec",
-   "bytes": 20913642,
+   "version": 2,
+   "file": "city-newyork-2.zip",
+   "sha256": "e9af1b1f46cc794ff4b6c742c1d80e8672a72a341b632c3125c4ed5eb702ee0a",
+   "bytes": 21636263,
    "preview": true
   },
   {
@@ -165,10 +165,10 @@
    "latin": "MEXICO CITY",
    "coordinates": "19.43°N  99.13°W",
    "viewOffset": 45,
-   "version": 2,
-   "file": "city-mexicocity-2.zip",
-   "sha256": "3ce408a0e3e341cecf45677ddb9e1d2216b888d618d229a15081e9bc58709840",
-   "bytes": 22735086,
+   "version": 3,
+   "file": "city-mexicocity-3.zip",
+   "sha256": "8e8e4a62ff84784f4fe820fdf7f9dfb2a98228aa49608a9400d6b8a8f750981b",
+   "bytes": 22972528,
    "preview": true
   },
   {
@@ -178,10 +178,10 @@
    "latin": "TBILISI",
    "coordinates": "41.72°N  44.79°E",
    "viewOffset": 35,
-   "version": 1,
-   "file": "city-tbilisi-1.zip",
-   "sha256": "e9bbd5fad296001d53e4f44beaee29161f162a0f2bfe2b4c64ade9f6eaeb22ac",
-   "bytes": 21214829,
+   "version": 2,
+   "file": "city-tbilisi-2.zip",
+   "sha256": "1d8914bf1a1315f42c41c1a8ef10bb79096ec45f9c72aa471b04fa8b408a4896",
+   "bytes": 21342960,
    "preview": true
   },
   {
@@ -191,10 +191,10 @@
    "latin": "SYDNEY",
    "coordinates": "33.87°S  151.21°E",
    "viewOffset": 45,
-   "version": 1,
-   "file": "city-sydney-1.zip",
-   "sha256": "7aa5399b1d2bcb79aa438ff1890ac7b745d17faf5268dea592e47e90cdd1e069",
-   "bytes": 18944205,
+   "version": 2,
+   "file": "city-sydney-2.zip",
+   "sha256": "a34221e13a4cd71d2ac936e6036de808c5e1576d344243f027fdb26b9c99ee69",
+   "bytes": 18865251,
    "preview": true
   },
   {
@@ -204,10 +204,10 @@
    "latin": "PRAGUE",
    "coordinates": "50.09°N  14.42°E",
    "viewOffset": 40,
-   "version": 1,
-   "file": "city-prague-1.zip",
-   "sha256": "535dd445a4e559eab9a554b5deab30aaeab436fa1c676fb09c907ae6cd594177",
-   "bytes": 21263112,
+   "version": 2,
+   "file": "city-prague-2.zip",
+   "sha256": "a41e906ed7a5c9fd0332a840853c58d55566e0ee3ca8a9c7c6c5467f8e8f8149",
+   "bytes": 21070015,
    "preview": true
   },
   {
@@ -217,10 +217,10 @@
    "latin": "ISTANBUL",
    "coordinates": "41.01°N  28.98°E",
    "viewOffset": 35,
-   "version": 1,
-   "file": "city-istanbul-1.zip",
-   "sha256": "1137b23492f04b3fe7f5a6b96bcee589ddacb57b381cf3f94b1016d3025e9516",
-   "bytes": 21565504,
+   "version": 2,
+   "file": "city-istanbul-2.zip",
+   "sha256": "8f83243f446b99ecd7c666fc0c958a178aa880128c32d3d8d8a5e41202eec518",
+   "bytes": 21137949,
    "preview": true
   },
   {
@@ -230,10 +230,10 @@
    "latin": "REYKJAVÍK",
    "coordinates": "64.15°N  21.94°W",
    "viewOffset": 30,
-   "version": 1,
-   "file": "city-reykjavik-1.zip",
-   "sha256": "17986adbd4a28abc588b622cc9826d429c8611f1217f43fb0d4a78c2595ef606",
-   "bytes": 20230852,
+   "version": 2,
+   "file": "city-reykjavik-2.zip",
+   "sha256": "29c6a9ceabecd30654894d46bc68a712484dac65a308e1be776929f5fa77e2da",
+   "bytes": 20097505,
    "preview": true
   },
   {
@@ -243,10 +243,10 @@
    "latin": "HỘI AN",
    "coordinates": "15.88°N  108.33°E",
    "viewOffset": 40,
-   "version": 1,
-   "file": "city-hoian-1.zip",
-   "sha256": "08c47646b819c9e3c2f893de6dcff1f48c3e2b3e2e40c62c3e0438847b92902a",
-   "bytes": 22634263,
+   "version": 2,
+   "file": "city-hoian-2.zip",
+   "sha256": "4c864403c6c29c147a344251a13d5f4b98cb618b2f866699b790f16da416e67c",
+   "bytes": 22824952,
    "preview": true
   }
  ]
